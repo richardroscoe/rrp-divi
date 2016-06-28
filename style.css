@@ -1,0 +1,163 @@
+/*
+Theme Name:     RRP Divi
+Description:    Child of Divi for RRP
+Author:         Richard Roscoe
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+
+
+/*
+.wpcf7
+.wpcf7-form
+.wpcf7-form-control
+.wpcf7-form-control-wrap
+.wpcf7-text
+.wpcf7-email
+.wpcf7-textarea
+.wpcf7-submit
+*/
+
+/*
+.et_pb_contact p input,
+.et_pb_contact p textarea {
+	background-color: #eee; border: none!important; width: 100% !important; -moz-border-radius: 0 !important; -webkit-border-radius: 0 !important; border-radius: 0 !important; font-size: 14px; color: #999 !important; padding: 16px !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+.et_pb_contact_right p input { width: 45px!important; padding: 16px !important; }
+*/
+ #et-info-phone a {
+color: rgba( 255, 255, 255, 0.6 )
+}
+
+.gift-voucher {
+	border: 1px solid #000000;
+	margin-bottom: 15px;
+}
+
+.post-4152 h1~img {
+	border: 1px solid #000000;
+	margin-bottom: 15px;
+}
+
+.fp_blurb {
+transition: all 0.5s ease;
+padding: 20px 15px 20px 15px;
+border: solid 1px;
+background-color: #ffffff;
+color: #000000;
+}
+
+.fp_blurb:hover {
+box-shadow: 1px 1px 20px #000000;
+}
+.fp_blurb_last {
+
+}
+.headshot_eg {
+box-shadow: 5px 5px 15px #222;
+margin: 0px 0px 20px 0px;
+}
+.et_pb_image {
+box-shadow: 5px 5px 15px #222;
+}
+.no_shadow {
+box-shadow: 0 0 0 0;
+}
+#fp_subscribe #et_pb_signup_firstname,
+ #fp_subscribe #et_pb_signup_lastname {
+/*visibility: hidden; display: none;*/
+}
+#fp_subscribe .et_pb_newsletter_form  p:nth-child(1), #fp_subscribe .et_pb_newsletter_form  p:nth-child(2),
+#fp_subscribe .et_pb_newsletter_form  p:nth-child(3)  {
+/*display: none;*/
+}
+.contact_blurb {
+transition: all 0.5s ease;
+padding: 20px 15px 20px 15px;
+border: solid 1px;
+background-color: #ffffff;
+color: #000000;
+}
+.contact_blurb:hover {
+box-shadow: 1px 1px 20px #000000;
+}
+.contact_blurb_last {
+
+}
+.contact_submit_class {
+padding: 20px 20px 20px 20px;
+background:#05A1F5 ! important;
+border:1px;
+color:white ! important;
+font-weight: bold ! important;
+font-size: 2em ! important;
+border-radius: 5px;
+/*height: 40px ! important;*/
+behavior:url(border-radius.htc);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+}
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea  {
+font-size:1.2em;
+margin: 5px 5px 5px 5px;
+padding: 5px 5px 5px 5px;
+background-color: #DDD;
+}
+.land_textbox {
+background: #ffffff;
+padding: 20px 20px 20px 20px;
+border: solid 1px;
+}
+.land_textbox_dark {
+background: #997D40;
+}
+/*
+#footer-bottom {
+	color: #ff0000;
+}
+*/
+/*
+* Here we are!
+
+#footer-info { 
+text-align: left; 
+color: green; 
+padding-bottom: 10px; 
+float: left; 
+}
+ 
+#footer-info a { 
+font-weight: 700; 
+color: yellow; 
+}
+ 
+#footer-info a:hover { 
+color: pink; 
+}
+*/
+ 
+#footer-info  {
+	color: #CCC;
+}
+
+#footer-email {
+	color: #CCC;
+}
+
+/* Style Footer Social Icons - Lines 1185 to 1198 */
+ 
+#footer-bottom  a {
+	color: #CCC;
+}
+
+
+ /* This is a box styling for POSTS */
+ 
+ .my_60_percent {
+	 width: 60%;
+ }
